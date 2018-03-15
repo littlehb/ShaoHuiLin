@@ -1,0 +1,3 @@
+http://blog.sina.com.cn/s/blog_e4008c660101h5x2.html
+
+失败，键盘在Sonic Pi中失效，复制进去的，在蓝牙音箱中也没有了声音。
